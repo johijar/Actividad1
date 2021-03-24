@@ -1,0 +1,14 @@
+.centrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.colorperro {
+    background-color: aquamarine;
+}
+
+.colorgato {
+    background-color: rgb(167, 33, 59);
+}
