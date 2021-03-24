@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="../css/estilos.css" rel="stylesheet" type="text/css">
+
+
+        <title> Gatos en adopción :) </title>
+    </head>
+
+
+    <style>
+        body {
+            background-color: lightpink;
+            margin: 80px;
+        }
+
+        h1 {
+            color: black;
+            text-align: center;
+        }
+
+        p {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 15px
+        }
+
+        h2 {
+            text-align: center;
+            color: black;
+        }
+    </style>
+
+
+    <body>
+        <link rel="stylesheet" href="estilos.css">
+        <a href="../html/index.html"> Inicio</a>
+        <h2> Gatos en adopción </h2>
+        
+        <table>
+            <tr>
+                <td>
+                    <div class="Gatovuelta">
+                        <img src="Img/gattogangsta.jpg">
+
+                    </div>
+                </td>
+
+                <td>
+                    <p> Nombre: Harry nach</p>
+                    <p> Edad: 2 meses</p>
+                    <p> Género: Masculino</p>
+                    <p> Número de chip: 00101010101</p>
+                </td>
+            </tr>
+        </table>
+
+        <table>
+            <tr>
+                <td>
+                    <div class="Gatovuelta">
+                        <img src="Img/gatoflaite.jpg">
+
+                    </div>
+                </td>
+
+                <td>
+                    <p> Nombre: Esotiko el</p>
+                    <p> Edad: 3 meses</p>
+                    <p> Género: Masculino</p>
+                    <p> Número de chip: 22222222898</p>
+                </td>
+            </tr>
+        </table>
+
+        <table>
+            <tr>
+                <td>
+                    <div class="Gatovuelta">
+                        <img src="Img/abc2949e269396d71d256516df43c6b9.jpg">
+
+                    </div>
+                </td>
+
+                <td>
+                    <p> Nombre: Caipirnha</p>
+                    <p> Edad: 11 meses</p>
+                    <p> Género: Femenino</p>
+                    <p> Número de chip: 13391111231</p>
+                </td>
+            </tr>
+        </table>
+
+
+
+    
+    </body>
+
+
+
+    </html>
+    
