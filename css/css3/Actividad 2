@@ -1,0 +1,67 @@
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.centri {
+    margin: auto;
+    width: 70%;
+    border: 3px solid black;
+    padding: 40px;
+
+}
+
+body {
+    display: block;
+    margin: 0;
+    padding: 10;
+    font-family: sans-serif;
+  }
+  
+.panel {
+    display:inline-block;
+    border: black solid;
+    padding: 45px;
+    color: white;
+    font-weight: bold;
+    
+  }
+li:hover {
+    color: gray;
+}
+.divCyan {
+    margin: auto;
+    display: block;
+    background-color: cyan;
+    height: 25%;
+    width: 78%;
+    text-align: center;
+}
+.divAmarillo {
+    margin: auto;
+    display: block;
+    background: yellow;
+    height: 25%;
+    width: 78%;
+    text-align: center;
+}
+.divNaranjo {
+    margin: auto;
+    display: block;
+    background-color: orangered;
+    height: 25%;
+    width: 78%;
+    text-align: center;
+}
+.divRojo {
+    margin: auto;
+    display: block;
+    background-color: red;
+    height: 25%;
+    width: 78%;
+    text-align: center;
+}

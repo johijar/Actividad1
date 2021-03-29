@@ -12,3 +12,19 @@
 .colorgato {
     background-color: rgb(167, 33, 59);
 }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+}
+
+.centri {
+    margin: auto;
+    width: 70%;
+    border: 3px solid black;
+    padding: 40px;
+
+}

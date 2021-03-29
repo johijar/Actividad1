@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=, initial-scale=1.0">
+
+        <link href="../css/css3/Actividad 2" rel="stylesheet" type="text/css" media="all"/>
+        <title>Actividad 2</title>
+    </head>
+
+
+
+    <body style="background-color: rgb(46, 43, 43);">
+        <div class="panel">
+            <ul>
+                <li> Inicio </li>
+                <li> Nosotros </li>
+                <li> Perros </li>
+                <li> Gatos </li>
+                <li> Contactos </li>
+            </ul>
+          </div>
+
+
+        <div class="divCyan">
+            <p style="background-color: cyan;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores et error, quae modi placeat voluptate amet delectus hic iusto cumque veritatis voluptatibus odit consequatur labore minima inventore officia ipsum cum.</p>
+            <p style="font-size: 15px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam alias eius ratione aliquam ut delectus facilis earum fugit! Vel at officiis recusandae placeat nihil nesciunt doloremque perspiciatis quaerat. Laborum, necessitatibus.</p>
+            </div>
+        <div class="divAmarillo">
+            <p style="background-color: yellow;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores et error, quae modi placeat voluptate amet delectus hic iusto cumque veritatis voluptatibus odit consequatur labore minima inventore officia ipsum cum.</p>
+            <p style="font-size: 15px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam alias eius ratione aliquam ut delectus facilis earum fugit! Vel at officiis recusandae placeat nihil nesciunt doloremque perspiciatis quaerat. Laborum, necessitatibus.</p>
+            </div>
+        <div class="divNaranjo">
+            <p style="background-color: orangered;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores et error, quae modi placeat voluptate amet delectus hic iusto cumque veritatis voluptatibus odit consequatur labore minima inventore officia ipsum cum.</p>
+            <p style="font-size: 15px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam alias eius ratione aliquam ut delectus facilis earum fugit! Vel at officiis recusandae placeat nihil nesciunt doloremque perspiciatis quaerat. Laborum, necessitatibus.</p>
+            </div>
+        <div class="divRojo">
+            <p style="background-color: red;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores et error, quae modi placeat voluptate amet delectus hic iusto cumque veritatis voluptatibus odit consequatur labore minima inventore officia ipsum cum.</p>
+            <p style="font-size: 15px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam alias eius ratione aliquam ut delectus facilis earum fugit! Vel at officiis recusandae placeat nihil nesciunt doloremque perspiciatis quaerat. Laborum, necessitatibus.</p>
+            </div>    
+
+    </body>
+</html>
